@@ -1,5 +1,5 @@
 ---
-last_reviewed: 2026-10-02
+last_reviewed: 2026-10-05
 name: "Tenable Patch Management Logs MCP"
 author: "brendanong95"
 github_url: "https://github.com/brendanong95/tenable-patch-management-logs-mcp"
@@ -44,6 +44,7 @@ tools_exposed:
 resources_exposed: []
 prompts_exposed: []
 ---
+last_reviewed: 2026-10-05
 
 ## What it does
 
